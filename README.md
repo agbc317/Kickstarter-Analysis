@@ -1,2 +1,2 @@
-# Vanderbilt-Module1
-Module 1 of Vanderbilt Data Analysis Program
+# An Analysis of Kickstarter Campaigns
+Analysis of the success of various Kickstarter Campaigns based on various factors.
